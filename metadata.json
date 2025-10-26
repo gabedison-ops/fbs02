@@ -1,0 +1,7 @@
+{
+  "name": "Reservation (FBS) by Edison Gabrido - V1",
+  "description": "An AI-powered voice simulator for hospitality students to practice table reservations and room service order-taking scenarios in a realistic environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
